@@ -8,7 +8,7 @@ My name is *Regan Hayes*. I am a young woman trying to start a career in softwar
 
 ## What is Growth Mindset?
 
-#### A growth mindest, to me, is a mindset that sees growth and development in every experience whether pass or fail. A mindset that ask the question `What does this situation teach me?` Seeing weaknesses as a chance to improve and they build on their strengths. 
+#### A growth mindest, to me, is a mindset that sees growth and development in every experience whether pass or fail. A mindset that ask the question `What does this situation teach me?` Seeing weaknesses as a chance to improve and building on strengths. 
 
 
 #### I remind myself to keep a growth mindset by:
