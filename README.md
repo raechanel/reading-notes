@@ -17,7 +17,7 @@ My name is *Regan Hayes*. I am a young woman trying to start a career in softwar
 ###### 4. Staying humble. Always trying to learn from any situation. 
 
 
-### Table of cONTENTS 
+### Table of Contents 
 - [Class 1 Reading](class102reading.md) 
 - [Class 2 Reading](class102reading2.md)
 - [Class 3 Reading](class102reading3.md)
