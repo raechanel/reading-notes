@@ -15,3 +15,9 @@ My name is *Regan Hayes*. I am a young woman trying to start a career in softwar
 ###### 1. Reflecting on where I am vs where I have been. Being grateful. 
 ###### 3. Thinking posititve. I am a firm believer that the way we talk to ourselves have a lasting effect. It's all about what you believe. 
 ###### 4. Staying humble. Always trying to learn from any situation. 
+
+
+### Table of cONTENTS 
+- [Class 1 Reading](class102reading.md) 
+- [Class 2 Reading](class102reading2.md)
+- [Class 3 Reading]( 
