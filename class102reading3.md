@@ -1,15 +1,18 @@
 # What is git?
 Git is  version control system that stores your data in snapshots of where you are in a certain point in time. Also, git allows multiple developers to work on the same code at the same time. 
 ### Stages
-Files in github reside in three main states: `committed`, `modified`, and `staged`. 
+Files in github reside in three main states: `committed`, `modified`, and `staged`.
 
-*`Committed`* means data is securely stored in a local database. 
+*`Committed`* means data is securely stored in a local database.
 
 *`Modified`* means the file has been changed but not committed to the database. 
 
 *`Staged`* means flagged a file's changed version to be commmitted in the next snapshot.
-### Downloading Git 
+
+### Downloading Git
+
 Git can be downloaded various ways:
+
 1. Install as a package
 2. Install via another installer 
 3. Download and complete the source code 
@@ -47,4 +50,4 @@ This process allows git to `add` the README.md file or the name of the file. The
 
 
 
-[<--Back](README.md) 
+[<--HOME](README.md) 

@@ -8,4 +8,7 @@
 * For markdown to *italicize* text you would use `*`. With HTML you would use `<em> </em>`
 * For markdown to ***bold and italicize*** text you would use `***`. With HTML you would use `<strong><em> </em></strong>`
 
-[<--Back](README.md) 
+Navigation 
+
+[Home](README.md)    
+[Command Line](class102reading2.md) 

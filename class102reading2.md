@@ -17,5 +17,10 @@ Below I will list commands and their definition and function:
 4. `ls-a` will list hidden files and directories. 
 
 
-[<--Back](README.md) 
 
+
+Navigation 
+
+[Home](README.md) 
+
+[Git](class102reading3.md) 
