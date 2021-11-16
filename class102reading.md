@@ -7,3 +7,5 @@
 * For markdown to **bold** text you would use `**`. With HTML you would use `<strong> </strong>`
 * For markdown to *italicize* text you would use `*`. With HTML you would use `<em> </em>`
 * For markdown to ***bold and italicize*** text you would use `***`. With HTML you would use `<strong><em> </em></strong>`
+
+[<--Back](README.md) 
