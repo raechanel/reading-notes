@@ -34,9 +34,13 @@ This process allows git to `add` the README.md file or the name of the file. The
 `cd 'hello-world` imports and existing project into git
 
 `git clone 'https://github.com'` creates a copy of an existing Git repository by using this clone command with the repository's URL
+
 `git status` checks the status of the file
+
 `git commit -m 'made change to a,b,c` this command commits the file and adds a message to serve as a memo to yourself or anyone else what has  been added or changed in this file. 
+
 `git commit -a` allows you to commit all changes made to the file
+
 `git push orgin master` pushes changes from the local "master" branch to the remote repository named "orgin". 
 
 
