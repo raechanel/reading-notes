@@ -15,3 +15,7 @@ Below I will list commands and their definition and function:
 2. `ls`means list. `ls` list information about files and directories within the certain fie system. 
 3. `cd`means change directory. `cd` allows you to move between directories 
 4. `ls-a` will list hidden files and directories. 
+
+
+[<--Back](README.md) 
+[Next-->](class102reading2.md)
