@@ -33,7 +33,7 @@ Some people like to draw their wireframes by hand. This can be useful because by
     * During this step, you can finally put pen to paper. Remember that you're outlining and representing feautures and formats, not illustrating in fine detail. 
     * Ask yourself the following three questions while you’re sketching:
 
-        * How can you organise the content to support your users’ goals?
+        * How can you organize the content to support your users’ goals?
         * Which information should be most prominent? 
         * Where should your main message go? 
         * What should the user see first when arriving at the page?
