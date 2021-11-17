@@ -64,7 +64,7 @@ This is different from algebra. The following does not make sense in algebra:
 * *x=x+5*
 
 In JavaScript, however, it makes perfect sense: it assigns the value of x + 5 to x.
-* (It calculates the value of x + 5 and puts the result into x. The value of x is incremented by 5.
+* It calculates the value of x + 5 and puts the result into x. The value of x is incremented by 5.
 
 ***The "equal to" operator is written like == in JavaScript.***
 
