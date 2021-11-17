@@ -60,10 +60,10 @@ This process allows git to `add` the README.md file or the name of the file. The
 `git push orgin master` pushes changes from the local "master" branch to the remote repository named "orgin".
 
 
-
+***
 
 ### Navigation
 
-[Home](README.md)
+- [Home](README.md)
 
-[Wireframing](class102reading4.md)
+- [Wireframing](class102reading4.md)

@@ -48,6 +48,10 @@ The color property specifies the ***color*** of text
 
 Tip: Use a background color combined with a text color that makes the text easy to read.
 
+***
+
 ### Navigation
 
-[Home](README.md)
+- [Home](README.md)
+
+- [JavaScript](class102reading6.md)

@@ -18,9 +18,10 @@ Below I will list commands and their definition and function:
 
 
 
+***
 
 ### Navigation
 
-[Home](README.md)
+- [Home](README.md)
 
-[Git](class102reading3.md)
+- [Git](class102reading3.md)

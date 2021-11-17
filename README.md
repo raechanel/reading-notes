@@ -19,6 +19,7 @@ My name is *Regan Hayes*. I am a young woman trying to start a career in softwar
 
 #### 4. Staying humble. Always trying to learn from any situation.
 
+***
 
 ## Table of Contents
 
@@ -26,4 +27,5 @@ My name is *Regan Hayes*. I am a young woman trying to start a career in softwar
 - [Command Line/Terminal](class102reading2.md)
 - [Git](class102reading3.md)
 - [Wireframing](class102reading4.md)
-- [CSS](classreading102reading5.md)
+- [CSS](class102reading5.md)
+- [JavaScript](class102reading6.md)

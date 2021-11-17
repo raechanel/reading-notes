@@ -43,8 +43,10 @@ Some people like to draw their wireframes by hand. This can be useful because by
 5. **Add some detail and get testing**
     * Add informational details to prepare the wireframe for the upgrade.
 
+***
+
 ### Navigation
 
-[Home](README.md)
+- [Home](README.md)
 
-[CSS](class102reading5.md)
+- [CSS](class102reading5.md)
