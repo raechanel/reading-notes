@@ -22,6 +22,8 @@ My name is *Regan Hayes*. I am a young woman trying to start a career in softwar
 
 ## Table of Contents
 
-- [Markdown vs HTML](class102reading.md) 
+- [Markdown vs HTML](class102reading.md)
 - [Command Line/Terminal](class102reading2.md)
 - [Git](class102reading3.md)
+- [Wireframing](class102reading4.md)
+- [CSS](classreading102reading5.md)
