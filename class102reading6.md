@@ -72,4 +72,4 @@ In JavaScript, however, it makes perfect sense: it assigns the value of x + 5 to
 
 ### Navigation
 
-- [Home](READ.me)
+- [Home](README.md)
