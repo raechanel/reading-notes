@@ -1,6 +1,4 @@
-# JavaScript Functions and Operators
-
-## JavaScript Functions
+# JavaScript Functions
 
 A JavaScript function is a block of code designed to perform a particular task. It is executed when "something" invokes it (calls it).
 
@@ -37,56 +35,8 @@ When an event occurs (when a user clicks a button)
 When it is invoked (called) from JavaScript code
 Automatically (self invoked)
 ***
-## JavaScript Operators 
 
-
-### JavaScript Arithmetic Operators
-
-Arithmetic operators are used to perform arithmetic on numbers:
-
-* "+" means addition
-* "-" means subtraction
-* "*" means multiplication
-* "**" means exponentiation
-* "/" means division
-* "%" means modulus (division remainder)
-* "++" means increment
-* "--" means decrement
-
-***
-
-## JavaScript Assignment Operators
-
-Assignment operators assign values to JavaScript variables.
-
-Examples:
-
-* The **assignment** operator (=) assigns a value to a variable:
-    * let x = 10
-* The **addition** operator (+) adds numbers: 
-    * let x = 5  
-    * let y = 2 
-    * let z = x + y
-
-* The multiplication operator (*) multiplies numbers. 
-    * let x = 5
-    * let y = 2
-    * let z = x * y
-
-***
-
-## JavaScript Comparison Operators
-
-* '==' means equal to
-* '===' means equal value and equal type
-* '!=' means not equal
-* '!==' means not equal value or not equal type
-* '>' means greater than
-* '<'means less than
-* '>=' means greater than or equal to
-* '<=' means less than or equal to
-* '?' means ternary operator
-
-*** 
 ## Navigation 
-* [Home](README.md)
+
+- [Home](README.md)
+- [JavaScript Expressions, Operators and Loops](class102reading8.md)
