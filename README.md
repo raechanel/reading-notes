@@ -29,3 +29,4 @@ My name is *Regan Hayes*. I am a young woman trying to start a career in softwar
 - [Wireframing](class102reading4.md)
 - [CSS](class102reading5.md)
 - [JavaScript](class102reading6.md)
+- [JavaScript Functions and Operators](class102reading7.md)

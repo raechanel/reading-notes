@@ -73,3 +73,4 @@ In JavaScript, however, it makes perfect sense: it assigns the value of x + 5 to
 ### Navigation
 
 - [Home](README.md)
+- [JavaScript Functions and Operators](class102reading7.md)
