@@ -75,7 +75,7 @@ Examples:
 
 ***
 
-## JavaScript Compearison Operators
+## JavaScript Comparison Operators
 
 * '==' means equal to
 * '===' means equal value and equal type
