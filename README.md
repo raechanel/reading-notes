@@ -26,14 +26,14 @@ This site is a collection of reading notes from my Code Fellows Code 102, 201, a
 
 ## 102 Table of Contents
 
-- [Markdown vs HTML](class102reading.md)
-- [Command Line/Terminal](class102reading2.md)
-- [Git](class102reading3.md)
-- [Wireframing](class102reading4.md)
-- [CSS](class102reading5.md)
-- [JavaScript](class102reading6.md)
-- [JavaScript Functions](class102reading7.md)
-- [JavaScript Expressions, Operators and Loops](class102reading8.md)
+1. [Markdown vs HTML](class102reading.md)
+2. [Command Line/Terminal](class102reading2.md)
+3. [Git](class102reading3.md)
+4. [Wireframing](class102reading4.md)
+5. [CSS](class102reading5.md)
+6. [JavaScript](class102reading6.md)
+7. [JavaScript Functions](class102reading7.md)
+8. [JavaScript Expressions, Operators and Loops](class102reading8.md)
 
 ***
 
