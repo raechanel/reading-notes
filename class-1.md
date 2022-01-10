@@ -5,7 +5,7 @@
 2. **What are the characteristics of a component?**
   `Reusability, Replaceable, Not Context Specific, Extensible, Encapsulated, Independent`
 3. **What are the advantages of using component-based architecture?**
-  `Ease of deployment, reduced cost, ease of development, reusable, modification of technical complexity, reliability, system maintence and evolution, independent`
+  `Ease of deployment, reduced cost, ease of development, reusable, modification of technical complexity, reliability, system maintenance and evolution, independent`
 4. **What is “props” short for?**
   Props stands for `properties`
 5. **How are props used in React?**
