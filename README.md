@@ -8,20 +8,23 @@ My name is *Regan Hayes*. I am a young woman trying to start a career in softwar
 
 ## What is Growth Mindset?
 
-### A growth mindest, to me, is a mindset that sees growth and development in every experience whether pass or fail. A mindset that ask the question: `What does this situation teach me?` Seeing weaknesses as a chance to improve and building on strengths.
+### A growth mindest, to me, is a mindset that sees growth and development in every experience whether pass or fail. A mindset that ask the question: `What does this situation teach me?` Seeing weaknesses as a chance to improve and building on strengths
 
+### I remind myself to keep a growth mindset by
 
-### I remind myself to keep a growth mindset by:
+1. Reflecting on where I am vs where I have been. Being grateful
 
-#### 1. Reflecting on where I am vs where I have been. Being grateful.
+2. Thinking posititve. I am a firm believer that the way we talk to ourselves have a lasting effect. It's all about what you believe
 
-#### 3. Thinking posititve. I am a firm believer that the way we talk to ourselves have a lasting effect. It's all about what you believe.
+3. Staying humble. Always trying to learn from any situation
 
-#### 4. Staying humble. Always trying to learn from any situation.
+### About
+
+This site is a collection of reading notes from my Code Fellows Code 102, 201, and 301 class
 
 ***
 
-## Table of Contents
+## 102 Table of Contents
 
 - [Markdown vs HTML](class102reading.md)
 - [Command Line/Terminal](class102reading2.md)
@@ -31,3 +34,29 @@ My name is *Regan Hayes*. I am a young woman trying to start a career in softwar
 - [JavaScript](class102reading6.md)
 - [JavaScript Functions](class102reading7.md)
 - [JavaScript Expressions, Operators and Loops](class102reading8.md)
+
+***
+
+## 201 Table of Contents
+
+1. [Intro to HTML and JavaScript](class-01.md)
+2. [Basics of HTML, CSS & JS](class-02.md)
+3. [HTML Lists, Control Flow with JS, and the CSS Box Model](class-03.md)
+4. [HTML Links, JS Functions, and Intro to CSS Layout](class-04.md)
+5. [Images, Color, Text](class-05.md)
+6. [Object Literals and DOM](class-06.md)
+7. [Tables, Functions, Methods, and Objects](class-07.md)
+8. [CSS Layout](class-08.md)
+9. [Forms and JS Events](class-09.md)
+10. [Debugging](class-10.md)
+11. [Images](class-11.md)
+12. [Chart.js](class-12.md)
+13. [Local Storage](class-13.md)
+14. [CSS Transforms, Transitions and Animations](class-14a.md)
+15. [What google learned about teams?](class-14b.md)
+
+***
+
+## 301 Table of Contents
+
+1. [Introduction to React and Components](class-1.md)
