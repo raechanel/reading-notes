@@ -4,7 +4,10 @@
 
 My name is *Regan Hayes*. I am a young woman trying to start a career in software development. I find enjoyment in coding and I have enjoyed creating this web page. This is **only** the beginning. I can't wait to learn so much more along this journey.
 
-***Link to my github: [Regan Hayes](https://github.com/raechanel)***
+***Click [Here](https://github.com/raechanel)*** for my GitHub
+
+***Click [Here](https://www.linkedin.com/in/regan-h-70235814a/)*** for my Linkedin
+
 
 ## What is Growth Mindset?
 
@@ -60,3 +63,4 @@ This site is a collection of reading notes from my Code Fellows Code 102, 201, a
 ## 301 Table of Contents
 
 1. [Introduction to React and Components](class-1.md)
+2. [States and Props](class-2.md)

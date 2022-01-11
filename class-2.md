@@ -29,3 +29,8 @@ Review Based on [React Lifecycle](https://medium.com/@joshuablankenshipnola/reac
 
 * [React Bootstap Documentation](https://react-bootstrap.github.io/)
 * [Netlify](https://www.netlify.com/)
+
+## Other Reading Notes
+
+* [Introduction to React and Components](class-1.md)
+* [Things I want to know more about](questions.md)
