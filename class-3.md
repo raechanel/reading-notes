@@ -62,7 +62,7 @@ console.log(helloWorld) // Object { hello: "😋😛😜🤪😝", world: "🙂�
 - Takes a variable and *increments*/ changes the value and then returns it.
 
 3. How can you pass a method from a parent component into a child component?
-- 
+-
 4. How does the child component invoke a method that was passed to it from a parent component?
 
 ***
