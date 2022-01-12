@@ -1,4 +1,4 @@
-# Pssing Functions as Props
+# Passing Functions as Props
 
 ## Review Based on [React Docs](https://reactjs.org/docs/lists-and-keys.html)
 
@@ -55,16 +55,19 @@ console.log(helloWorld) // Object { hello: "😋😛😜🤪😝", world: "🙂�
 
 1. In the video, what is the first step that the developer does to pass functions between components?
 
-- Creates the function where the state is that's being changed.
+  - Creates the function where the state is that's being changed.
 
 2. In your own words, what does the increment function do?
 
-- Takes a variable and *increments*/ changes the value and then returns it.
+  - Takes a variable and *increments*/ changes the value and then returns it.
 
 3. How can you pass a method from a parent component into a child component?
--
-4. How does the child component invoke a method that was passed to it from a parent component?
 
+  -
+
+4. How does the child component invoke a method that was passed to it from a parent component?
+  -
+  
 ***
 
 ### Other Reading Notes
