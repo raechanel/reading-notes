@@ -6,7 +6,7 @@
     - An input form element whose value is controlled by React
 
 2. Should we wait to store the users responses from the form into state when they submit the form OR should we update the state with their responses as soon as they enter them? Why.
-    - U
+    - Allows for dynamic rendering
 3. How do we target what the user is entering if we have an event handler on an input field?
     - Add a name attribute to each element and let the handler function choose what to do based on the value of event.target.name.
 
@@ -23,7 +23,7 @@
       }
 
     Rewrite:
-    - x===y (console.log) true : false
+    - `x===y ? console.log(true) : console.log (false);
 
 ***
 
