@@ -23,7 +23,7 @@
       }
 
     Rewrite:
-    - `x===y ? console.log(true) : console.log (false);
+    - `x===y ? console.log(true) : console.log (false);`
 
 ***
 
