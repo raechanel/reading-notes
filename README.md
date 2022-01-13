@@ -65,3 +65,4 @@ This site is a collection of reading notes from my Code Fellows Code 102, 201, a
 1. [Introduction to React and Components](class-1.md)
 2. [States and Props](class-2.md)
 3. [Passing Functions as Props](class-3.md)
+4. [React and Forms](class-4.md)
