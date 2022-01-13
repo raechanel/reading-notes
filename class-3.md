@@ -19,7 +19,7 @@
 1. What is the spread operator?
 List 4 things that the spread operator can do.
 
-- The Spread operator is the use of `ellipsis` of three dots (...) to expand an iterable object nto the list of arguments.
+- The Spread operator is the use of `ellipsis` of three dots (...) to expand an iterable object to the list of arguments.
 - The spread operator is useful for many things: Coping an array, Using math functions, Adding an item to a list, Adding to state in React and many more.
 
 2. Give an example of using the spread operator to combine two arrays.
