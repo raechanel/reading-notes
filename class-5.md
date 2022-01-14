@@ -25,10 +25,14 @@
 1. What is a “higher-order function”?
     - Functions that operate on other functions, either by taking them as arguments or by returning them
 2. Explore the greaterThan function as defined in the reading. In your own words, what is line 2 of this function doing?
+    - Not sure. Returning another function
 3. Explain how either map or reduce operates, with regards to higher-order functions.
-    - 
+    - The map method transforms an array by applying a function to all of its elements and building a new array from the returned values.
+
+***
 
 ### Other Reading Notes
+
 - [Home](README.md)
 - [Introduction to React and Components](class-1.md)
 - [States and Props](class-2.md)
