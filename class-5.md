@@ -1,9 +1,9 @@
-# Putting it All Together
+# Putting It All Together
 
 ## Review based on [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 
 1. What is the single responsibility principle and how does it apply to components?
-    - This means that a componenet should only do one thing and if it grows then it should be divided into smaller components
+    - This means that a component should only do one thing and if it grows then it should be divided into smaller components
 2. What does it mean to build a ‘static’ version of your application?
     - An application that has little to no interactivity
 3. Once you have a static application, what do you need to add?
