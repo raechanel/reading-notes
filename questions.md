@@ -2,3 +2,4 @@
 
 * I would like to know how states works with local storage
 * What specific scenarios do you use React in?
+* How do you know what things should be components? 
