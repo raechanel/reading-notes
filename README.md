@@ -67,3 +67,4 @@ This site is a collection of reading notes from my Code Fellows Code 102, 201, a
 3. [Passing Functions as Props](class-3.md)
 4. [React and Forms](class-4.md)
 5. [Putting It All Together](class-5.md)
+6. [Node.js](class-6.md)
