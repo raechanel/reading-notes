@@ -64,6 +64,12 @@ Pair Programming commonly involves `two` roles: the Driver and the Navigator. `T
 
 ***
 
+## Bookmarked Readings
+
+* [Geocoding API Docs](https://locationiq.com/)
+* [Axios Docs](https://www.npmjs.com/package/axios)
+* [MDN async and await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)
+
 ### Other Reading Notes
 
 - [Home](README.md)
