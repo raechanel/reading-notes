@@ -38,4 +38,5 @@ Partial update
 * [Passing Functions as Props](class-3.md)
 * [React and Forms](class-04.md)
 * [Putting It All Together](class-5.md)
+* [Node.js](class-6.md)
 * [Things I want to know more about](questions.md)
