@@ -72,10 +72,10 @@ Pair Programming commonly involves `two` roles: the Driver and the Navigator. `T
 
 ### Other Reading Notes
 
-- [Home](README.md)
-- [Introduction to React and Components](class-1.md)
-- [States and Props](class-2.md)
-- [Passing Functions as Props](class-3.md)
-- [React and Forms](class-04.md)
-- [Putting It All Together](class-5.md)
-- [Things I want to know more about](questions.md)
+* [Home](README.md)
+* [Introduction to React and Components](class-1.md)
+* [States and Props](class-2.md)
+* [Passing Functions as Props](class-3.md)
+* [React and Forms](class-04.md)
+* [Putting It All Together](class-5.md)
+* [Things I want to know more about](questions.md)

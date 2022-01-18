@@ -11,13 +11,13 @@ My name is *Regan Hayes*. I am a young woman trying to start a career in softwar
 
 ## What is Growth Mindset?
 
-### A growth mindest, to me, is a mindset that sees growth and development in every experience whether pass or fail. A mindset that ask the question: `What does this situation teach me?` Seeing weaknesses as a chance to improve and building on strengths
+### A growth mindset, to me, is a mindset that sees growth and development in every experience whether pass or fail. A mindset that ask the question: `What does this situation teach me?` Seeing weaknesses as a chance to improve and building on strengths
 
 ### I remind myself to keep a growth mindset by
 
 1. Reflecting on where I am vs where I have been. Being grateful
 
-2. Thinking posititve. I am a firm believer that the way we talk to ourselves have a lasting effect. It's all about what you believe
+2. Thinking positive. I am a firm believer that the way we talk to ourselves have a lasting effect. It's all about what you believe
 
 3. Staying humble. Always trying to learn from any situation
 
@@ -68,3 +68,4 @@ This site is a collection of reading notes from my Code Fellows Code 102, 201, a
 4. [React and Forms](class-4.md)
 5. [Putting It All Together](class-5.md)
 6. [Node.js](class-6.md)
+7. [Rest](class-7.md)
