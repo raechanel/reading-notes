@@ -69,3 +69,4 @@ This site is a collection of reading notes from my Code Fellows Code 102, 201, a
 5. [Putting It All Together](class-5.md)
 6. [Node.js](class-6.md)
 7. [Rest](class-7.md)
+8. [APIs](class-8.md)

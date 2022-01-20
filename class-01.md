@@ -4,11 +4,11 @@
 
 ## Structure
 
-* HTML pages are text doxuments
-* HTML uses tags `<>` to give the information they surrond special meaning
-  * HTML format is a openeing tag and a closing tag and the content between them
-* Tag and elemts are used interchangebly
-* Tags usually have pairs: Opening tag is denotes the start of content. Closing tages are the end
+* HTML pages are text documents
+* HTML uses tags `<>` to give the information they surround special meaning
+  * HTML format is a opening tag and a closing tag and the content between them
+* Tag and elements are used interchangeably
+* Tags usually have pairs: Opening tag is denotes the start of content. Closing tags are the end
 * Opening tags may have attributes that tells us more about the content in the element
   * Attributes require a name and a value
 * The structure of HTML is body, head, title
@@ -59,17 +59,17 @@ When you know what needs to appear on the site, you can start to organize the in
 
 * **Card Sorting** is a technique that can help you decide what information should go on each page
 
-**Wireframing** is a sketch of the key information that needs to go on each page of a site. Shows the hierachy of the information and how much space it might require.
+**Wireframing** is a sketch of the key information that needs to go on each page of a site. Shows the hierarchy of the information and how much space it might require.
 
 * You can sketch wireframes on paper or on a graphics application on the computer (like Illustrator or InDesign)
 
 The primary aim of visual design is to communicate and make sure the message shines through. With so much on a webpage the author needs to organize and prioritize the information to communicate their message and help users find what they're looking for.
 
-* **Visual Hierachy** is created to help users focus on the key messages that will draw users attention.
+* **Visual Hierarchy** is created to help users focus on the key messages that will draw users attention.
 
 * *Grouping together* related content into blocks or chunks makes the page look simpler.
 
-* **Similarity** is done by presenting certain types of information in a similiar visual style so users associate that style with the particular content.
+* **Similarity** is done by presenting certain types of information in a similar visual style so users associate that style with the particular content.
 
 ***
 
