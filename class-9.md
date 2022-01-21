@@ -45,7 +45,7 @@ Import a file in to be used.
 
 **What do we have to do to make a module available?**
 
-Require the module
+Require and export the module
 
 ### Other Reading Notes
 
