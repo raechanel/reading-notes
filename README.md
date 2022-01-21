@@ -70,3 +70,4 @@ This site is a collection of reading notes from my Code Fellows Code 102, 201, a
 6. [Node.js](class-6.md)
 7. [Rest](class-7.md)
 8. [APIs](class-8.md)
+9. [Functional Programming](class-9.md)
