@@ -18,7 +18,6 @@ The last function that gets pushed into the stack is the first to be pop out, wh
 
 **Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.**
 
-
 **What causes a Stack Overflow?**
 
 When there is a recursive function (a function that calls itself) without an exit point. The browser (hosting environment) has a maximum stack call that it can accommodate before throwing a stack error.

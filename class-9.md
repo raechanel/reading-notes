@@ -16,7 +16,6 @@ Definition of `purity`:
   1. It returns the same result if given the same arguments (it is also referred as deterministic)
   2. It does not cause any observable side effects
 
-
 **What are the benefits of a pure function?**
 
 The code is `easier` to test
