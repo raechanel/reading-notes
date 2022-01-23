@@ -52,7 +52,7 @@
 
   5. Job interview readiness
 
-  6. Work enviroment readiness
+  6. Work environment readiness
 
 **In your experience, which of these reasons have you found most beneficial?**
 

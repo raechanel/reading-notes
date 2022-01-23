@@ -24,9 +24,9 @@
 
 `</html>`
 
-3. Next you need to draw a line chart. To do that we need to create a canvas elementin which Chart.js can draw the chart. We should add this to the body of the HTML page: `<canvas id="buyers" width="600" height="400"></canvas>`
+3. Next you need to draw a line chart. To do that we need to create a canvas element in which Chart.js can draw the chart. We should add this to the body of the HTML page: `<canvas id="buyers" width="600" height="400"></canvas>`
 
-We also need to write a script that will retrive the context of the canvas, so we add this to the foot of the body: `<script>
+We also need to write a script that will retrieve the context of the canvas, so we add this to the foot of the body: `<script>
     var buyers = document.getElementById('buyers').getContext('2d');
     new Chart(buyers).Line(buyerData);
 </script>`
