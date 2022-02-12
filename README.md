@@ -82,3 +82,4 @@ This site is a collection of reading notes from my Code Fellows Code 102, 201, a
 ## 401 Table of Contents
 
 1. [Prep-The Growth Mindset](401-01.md)
+2. [Prep-The Terminal](401-02.md)
