@@ -77,7 +77,7 @@ This site is a collection of reading notes from my Code Fellows Code 102, 201, a
 14. N/A
 15. [Authentication](class-015.md)
 
-**
+***
 
 ## 401 Table of Contents
 
