@@ -74,7 +74,7 @@ This site is a collection of reading notes from my Code Fellows Code 102, 201, a
 11. [Mongo and Mongoose](class-011.md)
 12. [CRUD](class-012.md)
 13. [Diversity & Inclusion in the Tech Industry](class-013)
-14.
+14. N/A
 15. [Authentication](class-015.md)
 
 **
