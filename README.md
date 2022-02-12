@@ -76,3 +76,9 @@ This site is a collection of reading notes from my Code Fellows Code 102, 201, a
 13. [Diversity & Inclusion in the Tech Industry](class-013)
 14.
 15. [Authentication](class-015.md)
+
+**
+
+## 401 Table of Contents
+
+1. [Prep-The Growth Mindset](401-01.md)
