@@ -85,4 +85,4 @@ This site is a collection of reading notes from my Code Fellows Code 102, 201, a
 2. [Prep-The Terminal](401-02.md)
 3. [Prep-SQL Basics](401-03.md)
 4. [Java Basics](401-04.md)
-5. [Arrays, Loops, Imports](401-05.MD)
+5. [Arrays, Loops, Imports](401-05.md)
